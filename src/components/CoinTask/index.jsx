@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 const endpoint = 'https://en.numista.com/catalogue/photos/azerbaidjan/'
 const defaultImg =
   'https://media-s3-us-east-1.ceros.com/woundedwarriorproject/images/2023/05/17/7eae891d05abcc202e3c32c178b4f608/nickel.png'
